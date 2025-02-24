@@ -16,8 +16,8 @@ import { ReportFeedbackSystemInfoSection } from './ReportFeedbackSystemInfoSecti
 
 import * as css from './ReportFeedbackOverlay.less';
 
-const REPORT_ISSUE_LINK = 'https://github.com/camunda/camunda-modeler/issues/new/choose';
-const USER_FORUM_LINK = 'https://forum.camunda.io/tag/modeler?utm_source=modeler&utm_medium=referral';
+const REPORT_ISSUE_LINK = 'https://github.com/majidN7/project_workflow/issues/new/choose';
+const USER_FORUM_LINK = 'https://github.com/majidN7/project_workflow/issues';
 
 const OFFSET = { right: 0 };
 

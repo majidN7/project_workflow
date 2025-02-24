@@ -1,0 +1,32 @@
+{
+  "name": "camunda-modeler",
+  "version": "5.32.0",
+  "description": "Celever Modeler for BPMN, DMN and CMMN, based on bpmn.io",
+  "private": true,
+  "main": "prod.js",
+  "author": {
+    "name": "Camunda Services GmbH",
+    "email": "info@camunda.com",
+    "url": "https://camunda.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@camunda8/sdk": "^8.6.25",
+    "@sentry/integrations": "^7.113.0",
+    "@sentry/node": "^9.0.0",
+    "epipebomb": "^1.0.0",
+    "fast-glob": "^3.3.1",
+    "ids": "^1.0.0",
+    "min-dash": "^4.1.1",
+    "mri": "^1.1.6",
+    "parents": "^1.0.1"
+  },
+  "homepage": "https://github.com/camunda/camunda-modeler",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camunda/camunda-modeler"
+  },
+  "optionalDependencies": {
+    "vscode-windows-ca-certs": "^0.3.0"
+  }
+}

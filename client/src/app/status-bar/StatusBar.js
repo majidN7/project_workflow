@@ -21,9 +21,9 @@ export function StatusBar(props) {
       <div className="status-bar__file">
         <Slot name="status-bar__file" />
       </div>
-      <div className="status-bar__app">
+      {/* <div className="status-bar__app">
         <Slot name="status-bar__app" />
-      </div>
+      </div> */}
     </footer>
   );
 }

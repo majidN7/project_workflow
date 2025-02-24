@@ -54,8 +54,8 @@ function LearnMoreSection(props) {
       </Section.Header>
       <Section.Body>
         <ul className="dashed">
-          <li><a href={ RELEASE_NOTES_LINK }>Release Notes on Camunda blog</a></li>
-          <li><a href={ DOCS_LINK }>Camunda Modeler docs</a></li>
+          <li><a href={ RELEASE_NOTES_LINK }>Release Notes on Celever modeler blog</a></li>
+          <li><a href={ DOCS_LINK }>Celever Modeler docs</a></li>
           <li><a href={ CHANGELOG_LINK }>Changelog on GitHub</a></li>
         </ul>
       </Section.Body>

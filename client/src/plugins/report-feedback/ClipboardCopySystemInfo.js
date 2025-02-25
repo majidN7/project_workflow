@@ -46,7 +46,7 @@ export class ClipboardCopySystemInfo {
       _appendVersion
     } = this;
 
-    let systemInfoText = '## Camunda Modeler system information';
+    let systemInfoText = '## Celever Modeler system information';
 
     if (config.version) {
       systemInfoText = appendVersion(systemInfoText, this._getVersion());

@@ -210,7 +210,7 @@ export default class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'BPMN diagram',
-            group: 'Camunda 8',
+            group: 'Celever Modeler 8',
             action: 'create-cloud-bpmn-diagram'
           } ];
         },
@@ -258,7 +258,7 @@ export default class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'BPMN diagram',
-            group: 'Camunda 7',
+            group: 'Celever Modeler 7',
             action: 'create-bpmn-diagram'
           } ];
         },
@@ -315,7 +315,7 @@ export default class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'CMMN diagram',
-            group: 'Camunda 7',
+            group: 'Celever Modeler 7',
             action: 'create-cmmn-diagram'
           } ];
         },
@@ -370,7 +370,7 @@ export default class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'DMN diagram',
-            group: 'Camunda 8',
+            group: 'Celever Modeler 8',
             action: 'create-cloud-dmn-diagram'
           } ];
         },
@@ -408,7 +408,7 @@ export default class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'DMN diagram',
-            group: 'Camunda 7',
+            group: 'Celever Modeler 7',
             action: 'create-dmn-diagram'
           } ];
         },
@@ -453,7 +453,7 @@ export default class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'Form',
-            group: 'Camunda 8',
+            group: 'Celever Modeler 8',
             action: 'create-cloud-form'
           } ];
         },
@@ -487,7 +487,7 @@ export default class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'Form',
-            group: 'Camunda 7',
+            group: 'Celever Modeler 7',
             action: 'create-form'
           } ];
         },
@@ -521,7 +521,7 @@ export default class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'RPA script',
-            group: 'Camunda 8',
+            group: 'Celever Modeler 8',
             action: 'create-diagram',
             options: {
               type: 'rpa'

@@ -50,7 +50,7 @@ const tab = {
     getNewFileMenu() {
       return [ {
         label: 'Hello World',
-        group: 'Camunda 8',
+        group: 'Celever Modeler 8',
         action: 'create-diagram',
         options: {
           type: 'helloWorld'

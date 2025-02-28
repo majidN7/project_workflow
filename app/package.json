@@ -1,13 +1,13 @@
 {
-  "name": "camunda-modeler",
+  "name": "Celever-modeler",
   "version": "5.32.0",
   "description": "Celever Modeler for BPMN, DMN and CMMN, based on bpmn.io",
   "private": true,
   "main": "prod.js",
   "author": {
-    "name": "Camunda Services GmbH",
-    "email": "info@camunda.com",
-    "url": "https://camunda.com"
+    "name": "Celever Services GmbH",
+    "email": "info@clevercouncil.com",
+    "url": "https://www.clevercouncil.com/"
   },
   "license": "MIT",
   "dependencies": {
@@ -21,7 +21,7 @@
     "mri": "^1.1.6",
     "parents": "^1.0.1"
   },
-  "homepage": "https://github.com/camunda/camunda-modeler",
+  "homepage": "https://www.clevercouncil.com/",
   "repository": {
     "type": "git",
     "url": "https://github.com/camunda/camunda-modeler"

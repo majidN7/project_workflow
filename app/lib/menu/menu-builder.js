@@ -590,10 +590,10 @@ class MenuBuilder {
         label: 'Keyboard Shortcuts',
         click: () => app.emit('menu:action', 'show-shortcuts')
       },
-      {
+      /*{
         label: 'Report Issue',
         click: () => app.emit('menu:action', 'emit-event', { type: 'reportFeedback.open' })
-      },
+      },*/
       ... (app.flags && !app.flags.get('disable-remote-interaction')) ? [
         getSeparatorTemplate(),
         {

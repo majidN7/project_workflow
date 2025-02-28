@@ -64,7 +64,7 @@ export default class EmptyTab extends PureComponent {
             <CloudIcon className="engine-icon cloud-icon" />
             <h3>Celever Modeler 8</h3>
           </div>
-          <a href="https://camunda.com/products/cloud/?utm_source=modeler&utm_medium=referral">See version details</a>
+          <a href="https://www.clevercouncil.com/">See version details</a>
         </div>
 
         <p>Create a new file</p>
@@ -85,7 +85,7 @@ export default class EmptyTab extends PureComponent {
             <PlatformIcon className="engine-icon platform-icon" />
             <h3>Celever Modeler 7</h3>
           </div>
-          <a href="https://camunda.com/products/camunda-platform/?utm_source=modeler&utm_medium=referral">See version details</a>
+          <a href="https://www.clevercouncil.com/">See version details</a>
         </div>
 
         <p>Create a new file</p>
@@ -103,19 +103,19 @@ export default class EmptyTab extends PureComponent {
           <h3>Learn more</h3>
           <div className="article relative">
             <p>Introduction to Celever Modeler 8</p>
-            <a href="https://camunda.com/blog/2022/04/camunda-platform-8-orchestrate-all-the-things?utm_source=modeler&utm_medium=referral">Read blog post</a>
+            <a href="https://www.clevercouncil.com/">Our web site</a>
           </div>
           <div className="article relative">
             <p>Migrating from Celever Modeler 7</p>
-            <a href="https://docs.camunda.io/docs/guides/migrating-from-Camunda-Platform/?utm_source=modeler&utm_medium=referral">Camunda Docs</a>
+            <a href="https://www.clevercouncil.com/">Docs</a>
           </div>
           <div className="article">
-            <p>About Modeler 5</p>
+            <p>About Modeler </p>
             <a href="#" onClick={ () => this.props.onAction('emit-event', { type: 'versionInfo.open' }) }>Open &quot;What&apos;s new&quot;</a>
           </div>
           <div className="article">
             <p>Model your first diagram</p>
-            <a href="https://docs.camunda.io/docs/components/modeler/desktop-modeler/model-your-first-diagram/?utm_source=modeler&utm_medium=referral">Camunda Modeler Docs</a>
+            <a href="https://www.clevercouncil.com/">Celever Modeler Docs</a>
           </div>
         </div>
       </div>

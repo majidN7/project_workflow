@@ -36,7 +36,7 @@
   },
   "author": "Celever <https://www.clevercouncil.com/>",
   "license": "SEE LICENSE IN LICENSE",
-  "homepage": "https://github.com/camunda/camunda-modeler",
+  "homepage": "https://https://www.clevercouncil.com/",
   "workspaces": [
     "app",
     "client"

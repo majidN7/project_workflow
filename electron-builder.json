@@ -1,5 +1,5 @@
 {
-  "appId": "com.camunda.CamundaModeler",
+  "appId": "com.celever.CeleverModeler",
   "productName": "Celever Modeler",
   "files": [
     {
@@ -47,28 +47,28 @@
   "fileAssociations": [
     {
       "ext": "bpmn",
-      "name": "CamundaModeler.BPMN",
+      "name": "CeleverModeler.BPMN",
       "description": "BPMN file",
       "role": "Editor",
       "mimeType": "application/bpmn"
     },
     {
       "ext": "dmn",
-      "name": "CamundaModeler.DMN",
+      "name": "CeleverModeler.DMN",
       "description": "DMN file",
       "role": "Editor",
       "mimeType": "application/dmn"
     },
     {
       "ext": "cmmn",
-      "name": "CamundaModeler.CMMN",
+      "name": "CeleverModeler.CMMN",
       "description": "CMMN file",
       "role": "Editor",
       "mimeType": "application/cmmn"
     },
     {
       "ext": "form",
-      "name": "CamundaModeler.FORM",
+      "name": "CeleverModeler.FORM",
       "description": "FORM file",
       "role": "Editor",
       "mimeType": "application/camunda-form"

@@ -1,12 +1,4 @@
-/**
- * Copyright Camunda Services GmbH and/or licensed to Camunda Services GmbH
- * under one or more contributor license agreements. See the NOTICE file
- * distributed with this work for additional information regarding copyright
- * ownership.
- *
- * Camunda licenses this file to you under the MIT; you may not use this file
- * except in compliance with the MIT License.
- */
+ 
 
 // This is a 1x1px transparent GIF. It's used to override the default drag preview image.
 // For macOS, this has to be an actual image and has to be loaded before we set it.

@@ -1,12 +1,4 @@
-/**
- * Copyright Camunda Services GmbH and/or licensed to Camunda Services GmbH
- * under one or more contributor license agreements. See the NOTICE file
- * distributed with this work for additional information regarding copyright
- * ownership.
- *
- * Camunda licenses this file to you under the MIT; you may not use this file
- * except in compliance with the MIT License.
- */
+ 
 
 import { ClipboardCopySystemInfo } from '../ClipboardCopySystemInfo';
 
@@ -273,7 +265,7 @@ describe('<ClipboardCopySystemInfo>', function() {
 
       // then
       const clipboardText = writeTextSpy.args[0][0].text;
-      expect(clipboardText).to.contain(' * Execution Platform: Form - Camunda 7');
+      expect(clipboardText).to.contain(' * Execution Platform: Form - Celever Modeler 7');
     });
 
 
@@ -293,7 +285,7 @@ describe('<ClipboardCopySystemInfo>', function() {
 
       // then
       const clipboardText = writeTextSpy.args[0][0].text;
-      expect(clipboardText).to.contain(' * Execution Platform: Form - Camunda 8');
+      expect(clipboardText).to.contain(' * Execution Platform: Form - Celever Modeler 8');
     });
 
 

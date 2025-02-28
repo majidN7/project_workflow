@@ -1,12 +1,4 @@
-/**
- * Copyright Camunda Services GmbH and/or licensed to Camunda Services GmbH
- * under one or more contributor license agreements. See the NOTICE file
- * distributed with this work for additional information regarding copyright
- * ownership.
- *
- * Camunda licenses this file to you under the MIT; you may not use this file
- * except in compliance with the MIT License.
- */
+ 
 
 import { Component } from 'react';
 
@@ -140,7 +132,7 @@ export class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'BPMN diagram',
-            group: 'Camunda 7',
+            group: 'Celever Modeler 7',
             action: 'create-bpmn-diagram'
           } ];
         },
@@ -161,7 +153,7 @@ export class TabsProvider {
         getNewFileMenu() {
           return [ {
             label: 'BPMN diagram',
-            group: 'Camunda 8',
+            group: 'Celever Modeler 8',
             action: 'create-cloud-bpmn-diagram'
           } ];
         },

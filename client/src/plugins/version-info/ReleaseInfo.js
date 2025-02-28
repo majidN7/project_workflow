@@ -1,12 +1,4 @@
-/**
- * Copyright Camunda Services GmbH and/or licensed to Camunda Services GmbH
- * under one or more contributor license agreements. See the NOTICE file
- * distributed with this work for additional information regarding copyright
- * ownership.
- *
- * Camunda licenses this file to you under the MIT; you may not use this file
- * except in compliance with the MIT License.
- */
+ 
 
 import React from 'react';
 import * as css from './ReleaseInfo.less';
@@ -51,7 +43,7 @@ export function ReleaseInfo(props) {
           <h4>Support for latest Celever modeler 8 FEEL built-ins</h4>
           The FEEL expression editor now supports the latest built-in functions. <a href="https://docs.camunda.io/docs/components/modeler/feel/builtin-functions/feel-built-in-functions-introduction/">Learn more.</a>
         </li>
-        <li>
+        <li>git
           <h4>Bug fixes and more</h4>
           As always, this release incorporates bug fixes and additional minor improvements.
         </li>

@@ -1,5 +1,5 @@
 {
-  "name": "Celever-modeler",
+  "name": "celever-modeler",
   "version": "5.32.0",
   "description": "Celever Modeler for BPMN, DMN and CMMN, based on bpmn.io",
   "private": true,

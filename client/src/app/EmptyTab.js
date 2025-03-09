@@ -110,8 +110,7 @@ export default class EmptyTab extends PureComponent {
             <a href="https://www.clevercouncil.com/">Docs</a>
           </div>
           <div className="article">
-            <p>About Modeler </p>
-            <a href="#" onClick={ () => this.props.onAction('emit-event', { type: 'versionInfo.open' }) }>Open &quot;What&apos;s new&quot;</a>
+            
           </div>
           <div className="article">
             <p>Model your first diagram</p>

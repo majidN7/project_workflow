@@ -93,4 +93,4 @@ export default {
     'Annotation': 'تعليق توضيحي',
     'Output Expression': 'تعبير الإخراج',
     'Data Type': 'نوع البيانات'
-}
+};

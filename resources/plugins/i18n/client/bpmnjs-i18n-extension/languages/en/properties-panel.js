@@ -198,5 +198,22 @@ export default {
     'Version Tag': 'Version Tag',
     'Wait for Completion': 'Wait for Completion',
     '[unknown template: {templateId}]': '[unknown template: {templateId}]',
-    '{label} must not contain whitespace': '{label} darf keine Leerzeichen enthalten'
+    '{label} must not contain whitespace': '{label} darf keine Leerzeichen enthalten',
+    'Time to live':'Time to live',
+    'Process':'Process',
+    'History cleanup':'History cleanup',
+    'Tasklist':'Tasklist',
+    'Candidate starter':'Candidate starter',
+    'External task':'xternal task',
+    'Job execution':'Job execution',
+    'Execution listeners':'Execution listeners',
+    'Extension properties':'Extension properties',
+    'Version tag':'Version tag',
+    'Element documentation':'Element documentation',
+    'Candidate starter groups':'Candidate starter groups',
+    'Candidate starter users':'Candidate starter users',
+    'Event type':'Event type',
+    'Java class':'Java class',
+    'Delegate expression':'Delegate expression',
+    'Field injection':'Field injection'
 };

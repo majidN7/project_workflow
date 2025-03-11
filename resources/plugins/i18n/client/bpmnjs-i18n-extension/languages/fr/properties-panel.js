@@ -198,5 +198,22 @@ export default {
     'Version Tag': 'Étiquette de version',
     'Wait for Completion': 'Attendre la fin',
     '[unknown template: {templateId}]': '[modèle inconnu : {templateId}]',
-    '{label} must not contain whitespace': '{label} ne doit pas contenir despaces'
-    };
+    '{label} must not contain whitespace': '{label} ne doit pas contenir despaces',
+    'Time to live':'Temps de vivre',
+    'Process': 'Processus',
+    'History cleanup': 'Nettoyage de l historique',
+    'Tasklist': 'Liste des tâches',
+    'Candidate starter': 'Démarreur candidat',
+    'External task': 'Tâche externe',
+    'Job execution': 'Exécution du job',
+    'Execution listeners': 'Écouteurs d exécution',
+    'Extension properties': 'Propriétés d extension',
+    'Version tag': 'Étiquette de version',
+    'Element documentation': 'Documentation de l élément',
+    'Candidate starter groups': 'Groupes de démarreurs candidats',
+    'Candidate starter users': 'Utilisateurs de démarreurs candidats',
+    'Event type': 'Type d événement',
+    'Java class': 'Classe Java',
+    'Delegate expression': 'Expression de délégation',
+    'Field injection': 'Injection de champ'
+ };

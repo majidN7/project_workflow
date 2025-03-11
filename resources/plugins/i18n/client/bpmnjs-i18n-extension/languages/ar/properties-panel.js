@@ -198,5 +198,22 @@ export default {
     'Version Tag': 'علامة الإصدار',
     'Wait for Completion': 'انتظر الإكمال',
     '[unknown template: {templateId}]': '[قالب غير معروف: {templateId}]',
-    '{label} must not contain whitespace': '{label} يجب ألا يحتوي على مسافات'
+    '{label} must not contain whitespace': '{label} يجب ألا يحتوي على مسافات',
+    'Time to live':'الوقت للعيش',
+    'Process': 'العملية',
+    'History cleanup': 'تنظيف السجل',
+    'Tasklist': 'قائمة المهام',
+    'Candidate starter': 'بدء المرشح',
+    'External task': 'المهمة الخارجية',
+    'Job execution': 'تنفيذ المهمة',
+    'Execution listeners': 'مستمعو التنفيذ',
+    'Extension properties': 'خصائص الامتداد',
+    'Version tag': 'علامة الإصدار',
+    'Element documentation': 'توثيق العنصر',
+    'Candidate starter groups': 'مجموعات بدء المرشح',
+    'Candidate starter users': 'مستخدمو بدء المرشح',
+    'Event type': 'نوع الحدث',
+    'Java class': 'فئة جافا',
+    'Delegate expression': 'تعبير التفويض',
+    'Field injection': 'حقن الحقل'
 };
